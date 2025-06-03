@@ -79,19 +79,7 @@ The project focuses on detecting phishing websites by extracting and analyzing 2
 
 ---
 
-## 📂 File Structure (If applicable)
 
-📁 phishing-detection/
-├── dataset/
-│ ├── phishing.csv
-│ └── legitimate.csv
-├── feature_extraction.py
-├── model_training.py
-├── phishing_model.pkl
-├── prediction_interface.py
-└── README.md
-
----
 
 ## 📚 References
 
